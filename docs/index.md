@@ -1,6 +1,6 @@
 # Obsidian Notes
 
-Publish your public notes with MkDocs
+I'm publishing my public notes with MkDocs using https://github.com/jobindjohn/obsidian-publish-mkdocs with a walkthrough courtesy of [Shawn Graham](https://shawngraham.github.io/hist1900/assets/slides/jan18#/).
 
 ## Hello World!
 
