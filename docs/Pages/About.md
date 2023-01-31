@@ -3,7 +3,7 @@ title: About
 layout: 
 # permalink:
 published: true
-date: 202203051318
+date: 2022-03-05 13:18
 updated: 2022-03-05 16:05
 category: 
 categories: 
@@ -15,7 +15,7 @@ aliases:
 
 ## Chris Aldrich
 
-{|<} ![](https://boffosocko.com/logo.jpg)
+![|250](https://boffosocko.com/logo.jpg)
 
 Hello! I’m a Johns Hopkins trained biomedical and electrical engineer with a variety of interests in the [entertainment industry](http://boffosocko.com/category/entertainment-industry/), [information theory](http://boffosocko.com/category/information-theory/), [evolution](http://boffosocko.com/category/evolution/), [big history](http://boffosocko.com/category/big-history/), [genetics](http://boffosocko.com/tag/genetics/), signal processing, [transgenetics](http://www.apsugen.com/), [translational medicine](http://www.apsugen.com/), and theoretical [mathematics](http://boffosocko.com/category/mathematics/). I’m a strong advocate of the [IndieWeb](https://indieweb.org/) movement.
 

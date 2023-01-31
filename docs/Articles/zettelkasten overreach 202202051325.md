@@ -34,27 +34,3 @@ For those who are just coming to the idea of a zettelkasten, I recommend you lim
 Once you've got that part down and it's working for you, then consider adding on those other functionalities. Experiment with them; see what works. But don't be surprised if those other portions aren't the magic bullet that is going to revolutionize your life. We're likely to need new tools, functionality, and a system built from start to finish, to make those other things a useful reality.
 
 Syndication links: [boffosocko.com](https://boffosocko.com/2022/02/05/zettelkasten-overreach/) 
-
-%%
-## Source
-> After this morning's [[Dan Allosso Book Club#^44f675|Zoom session]] on [[Sönke Ahrens]]'s book, and in reading some introductions of people participating, I'm thinking about how we can better delineate and separate the uses cases of the zettelkasten note taking idea(s). Ahrens frames it in the perspective of reading, researching for writing, and generating new knowledge. Others seem to be bolting on other things which increases its complexity and may make it less useful by muddying the waters of the purpose. 
-> 
-> Some are using it as a digital garden and personal knowledge management (or wiki-like) tool. Others are moving towards a productivity tool writ large and throwing that proverbial kitchen sink in as well. Still others are using it as a personal journal and/or calendar function. These are great, but the purpose fit reason Ahrens describes is going to get lost in all this noise and then folks will wonder why they're lost.[^1]
-
-[^1]: Personal reflections (fleeting note)
-
-
-
----
-tags: 
-
-links: 
-- broader terms (BT): [[note taking]] [[Zettelkästen|zettelkasten]] [[productivity]]  [[tools for thought]]
-- narrower terms (NT): [[overreach]] [[spaced repetition]][[GTD]]
-- related terms (RT): [[everything and the kitchen sink]] [[mission creep]]
-- used for (UF) or aliases: 
-
-connected ideas: 
-
-TOC::
-%%

@@ -3,11 +3,11 @@ title: Refinished Architect’s Table from The General Fireproofing Co.
 layout: 
 permalink:
 published: true
-date: 2022-04-13 10:11
+date: 2022-03-02
 updated: 2022-04-13
 category: 
 categories: 
-tags: 
+tags: [furniture, hobby, The General Fireprofing Co., 20 gauge steel, architect's table, The National Bureau of Standards, refinishing furniture, stick leg table, tables, vintage furniture, atomic era furniture]
 aliases: 
 annotation-target:
 ---
@@ -52,23 +52,6 @@ I’ve done this enough times now, I’m contemplating taking commissions from f
 
 I suspect that when I refinish my next tanker desk for my office, I might be willing to sell [the one I’ve been using for the past 13 years](https://boffosocko.com/2008/11/29/vintage-tanker-desk-hobby/). 
 
-Posted on [March 2, 2022 9:21 pm](https://boffosocko.com/2022/03/02/refinished-architects-table-from-the-general-fireproofing-co/)
-Author [Chris Aldrich](https://boffosocko.com/author/chrisaldrich/)
-Categories [Furniture](https://boffosocko.com/category/furniture/)
-Tags [20 gauge steel](https://boffosocko.com/tag/20-gauge-steel/), [architect's table](https://boffosocko.com/tag/architects-table/), [atomic era furniture](https://boffosocko.com/tag/atomic-era-furniture/), [crafts](https://boffosocko.com/tag/crafts/), [design](https://boffosocko.com/tag/design/), [hobby](https://boffosocko.com/tag/hobby/), [National Bureau of Standards](https://boffosocko.com/tag/national-bureau-of-standards/), [refinishing furniture](https://boffosocko.com/tag/refinishing-furniture/), [stick leg table](https://boffosocko.com/tag/stick-leg-table/), [The General Fireproofing Co.](https://boffosocko.com/tag/the-general-fireproofing-co/), [vintage furniture](https://boffosocko.com/tag/vintage-furniture/)
-
-
 ---
 
-tags: 
-
-links: 
-- broader terms (BT): [[furniture]] [[hobby]]
-- narrower terms (NT): 
-- related terms (RT): [[The General Fireprofing Co.]], [[20 gauge steel]], [[architect's table]], [[The National Bureau of Standards]], [[refinishing furniture]], [[stick leg table]], [[tables]], [[vintage furniture]], [[atomic era furniture]]
-- used for (UF) or aliases: 
-
-connected ideas: 
-- [[atomic era furniture projects]]  | [syndication link](https://boffosocko.com/2022/03/02/refinished-architects-table-from-the-general-fireproofing-co/)
-
-MOC: [[100 Projects TOC|Projects]]
+Syndication links: [BoffoSocko.com](https://boffosocko.com/2022/03/02/refinished-architects-table-from-the-general-fireproofing-co/)

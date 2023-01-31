@@ -4,7 +4,7 @@ layout:
 permalink:
 published: true
 date: 2022-05-07 23:07
-updated: 2022-05-07
+updated:
 category: 
 categories: 
 tags: 
@@ -43,27 +43,3 @@ I’d appreciate others’ thoughts and perspectives on this regardless of where
 ---
 
 Syndication links: [BoffoSocko.com](https://boffosocko.com/2022/05/09/the-logos-ethos-and-pathos-of-indieweb/)
-
-%%
-## Inspiration
-https://twitter.com/MuireallPrase/status/1522959677465759744
-
-
-
----
-
-tags: 
-
-links: 
-- broader terms (BT): 
-- narrower terms (NT): 
-- related terms (RT): 
-- used for (UF) or aliases: 
-
-connected ideas: 
-
-TOC: 
-
-
-
-%%

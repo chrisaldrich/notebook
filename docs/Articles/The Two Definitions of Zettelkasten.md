@@ -1,3 +1,18 @@
+---
+title: The Two Definitions of Zettelkasten
+layout: 
+permalink:
+published: true
+date: 2022-10-22
+updated: 
+category: 
+categories: 
+tags: 
+aliases: 
+annotation-target:
+---
+
+
 What do we mean when we say Zettelkasten? There's a specific set of objects (cards and boxes or their digital equivalents), but there's also a spectrum of methods or practices which can be split into two broad categories.
 
 TLDR; Historically, Zettelkasten as used to describe both Luhmann's notes and his method is patently in the minority compared to the vast prior Zettelkasten tradition, dating back at least to Konrad Gessner in 1548, which could be broadly framed as a commonplace book kept on index cards, usually organized by topic or subject headings and kept in a card index.
@@ -216,14 +231,3 @@ Tharp, Twyla. _The Creative Habit: Learn It and Use It for Life_. Simon & Schust
 ---
 
 Syndication links: [BoffoSocko.com](https://boffosocko.com/2022/10/22/the-two-definitions-of-zettelkasten/)
-
-%%
-## Unused notes
-
-Currently, when people use the word "Zettelkasten" (as I understand your own specific use case here) they're almost *always* referring to the method and structure of Niklas Luhmann's specific zettelkasten.
-
-Broadly speaking LYT and most other methods in the note taking space outside of the Luhmann/Ahrens/ANTInet model are following the "O.G." Zettelkasten descriptions which is also that described and used by Green and Holiday. Incidentally, it's also exactly the method described by J. Heyde's *Technik des wissenschaftlichen Arbeitens* (Junker und Dünnhaupt, 1931) from which it's reported that Luhmann learned of the method.
-
-(move this paragraph to the end?)
-Sadly there are not the corresponding several hundred follow up articles about how great the idea has been for people who've been using it daily since. Perhaps it's such a great system for churning out work and being a more productive creator that those using it have forgotten what gave them the super power? Or perhaps the same sort of lethargy and under-the-radar commonplace-ness that plagued the practice of both commonplace books and zettelkasten in the 19th and 20th century has set in?
-%%
